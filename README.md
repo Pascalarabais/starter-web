@@ -7,6 +7,6 @@ this is bullshit
 Sample website with plenty of files for demos
 
 ## Purpose
-
+fuck yeah
 ##Deployment
 ##How to contribute
