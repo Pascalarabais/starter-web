@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pepe is cool  pepe@hormail.com
 
 # THANKS
 
