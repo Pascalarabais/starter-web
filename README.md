@@ -5,7 +5,7 @@ this is bullshit
 ## Introdcution
 
 Sample website with plenty of files for demos
-more changes for my featre 
+more changes for my featre
 ## Purpose
 fuck yeah
 ##Deployment
