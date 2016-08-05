@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Pitou!
 
 # TECHNOLOGY COLOPHON
 
